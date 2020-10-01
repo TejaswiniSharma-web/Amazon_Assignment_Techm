@@ -32,7 +32,29 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="TestNG.pages">
+  <component name="RunManager" selected="TestNG.C:/Users/Tejaswini Sharma/IdeaProjects/Amazon_Assignment_Techm/testng.xml">
+    <configuration name="C:/Users/Tejaswini Sharma/IdeaProjects/Amazon_Assignment_Techm/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon_Assignment_Techm" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon_Assignment_Techm" />
       <extension name="coverage">
@@ -44,24 +66,6 @@
       <option name="PACKAGE_NAME" value="pages" />
       <option name="MAIN_CLASS_NAME" value="pages.HomePage" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePage.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon_Assignment_Techm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pages" />
-      <option name="MAIN_CLASS_NAME" value="pages.HomePage" />
-      <option name="METHOD_NAME" value="openHomePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -85,17 +89,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignInPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_AMZ_01.tc001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon_Assignment_Techm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pages.*" />
+          <option name="PATTERN" value="testScripts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pages" />
-      <option name="MAIN_CLASS_NAME" value="pages.SignInPage" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="testScripts" />
+      <option name="MAIN_CLASS_NAME" value="testScripts.TC_AMZ_01" />
+      <option name="METHOD_NAME" value="tc001" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -110,21 +115,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="pages" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.HomePage" />
+      <item itemvalue="TestNG.pages" />
+      <item itemvalue="TestNG.ProductPage" />
+      <item itemvalue="TestNG.C:/Users/Tejaswini Sharma/IdeaProjects/Amazon_Assignment_Techm/testng.xml" />
+      <item itemvalue="TestNG.TC_AMZ_01.tc001" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Tejaswini Sharma/IdeaProjects/Amazon_Assignment_Techm/testng.xml" />
+        <item itemvalue="TestNG.TC_AMZ_01.tc001" />
         <item itemvalue="TestNG.pages" />
         <item itemvalue="TestNG.HomePage" />
         <item itemvalue="TestNG.ProductPage" />
-        <item itemvalue="TestNG.HomePage.openHomePage" />
-        <item itemvalue="TestNG.SignInPage" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +173,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="126" key="#SignInPage/0.0.1536.824@0.0.1536.824" timestamp="1601537384326" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601569815982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601569815982" />
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601569813280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1601569813280" />
     <state x="620" y="337" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601529102404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -158,26 +189,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="571" y="282" width="393" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1601539294736" />
-    <state width="1493" height="595" key="GridCell.Tab.0.bottom" timestamp="1601558990494">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1601572080401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="595" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601558990494" />
-    <state width="1493" height="595" key="GridCell.Tab.0.center" timestamp="1601558990494">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601572080401" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1601572080401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="595" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601558990494" />
-    <state width="1493" height="595" key="GridCell.Tab.0.left" timestamp="1601558990493">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601572080401" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1601572080401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="595" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601558990493" />
-    <state width="1493" height="595" key="GridCell.Tab.0.right" timestamp="1601558990494">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601572080401" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1601572080401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="595" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601558990494" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601572080401" />
     <state x="349" y="191" key="IDE.errors.dialog" timestamp="1601538053976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="191" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1601538053976" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601569721406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601569721406" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601561881601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
